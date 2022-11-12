@@ -1,0 +1,16 @@
+package testcases;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class TestBrowser {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ChromeDriver chromeDriver = new ChromeDriver();
+		chromeDriver.get("www.google.com");
+		chromeDriver.getTitle();
+		chromeDriver.click();
+		chromeDriver.sendKeys();
+	}
+
+}

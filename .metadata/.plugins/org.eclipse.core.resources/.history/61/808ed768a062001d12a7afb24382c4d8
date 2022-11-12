@@ -1,0 +1,14 @@
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class FacebookAutomation {
+
+	static WebDriver webDriver = new ChromeDriver();
+
+	public static void main(String[] args) {
+
+		webDriver.get("http://facebook.com");
+
+	}
+
+}

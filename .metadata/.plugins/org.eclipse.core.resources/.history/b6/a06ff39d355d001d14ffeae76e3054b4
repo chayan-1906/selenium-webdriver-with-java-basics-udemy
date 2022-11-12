@@ -1,0 +1,11 @@
+package org.openqa.selenium.firefox;
+
+
+public class FirefoxDriver {
+
+	public void getTitle() {
+		System.out.println("Getting the title from");
+	}
+	
+	
+}

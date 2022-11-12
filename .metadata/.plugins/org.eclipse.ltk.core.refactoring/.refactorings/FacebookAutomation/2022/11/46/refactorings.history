@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;chromedriver&apos; to &apos;SalesforceAutomation&apos;&#x0A;- Original project: &apos;FacebookAutomation&apos;&#x0A;- Destination element: &apos;SalesforceAutomation&apos;&#x0A;- Original element: &apos;chromedriver&apos;" description="Copy file" destination="=SalesforceAutomation" element1="chromedriver" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1668268564952" units="0" version="1.0"/>
+</session>

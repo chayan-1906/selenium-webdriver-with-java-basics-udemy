@@ -1,0 +1,9 @@
+AbstractTextEditor.Color.Background=247,244,255
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.SelectionBackground=166,231,187
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+eclipse.preferences.version=1
+printMargin=true
+tabWidth=8
+undoHistorySize=99999
