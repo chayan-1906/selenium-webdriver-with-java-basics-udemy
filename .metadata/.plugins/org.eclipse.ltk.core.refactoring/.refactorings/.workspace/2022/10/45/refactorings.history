@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete 16 resources" deleteContents="false" description="Delete 16 resources" element1="/employee-api" element10="/spring-security-demo-03-custom-login-form" element11="/spring-security-demo-04-bootstrap-login-form" element12="/spring-security-demo-05-logout" element13="/spring-security-demo-06-csrf" element14="/spring-security-demo-07-user-roles" element15="/spring-security-demo-08-jdbc-plaintext" element16="/spring-security-demo-09-jdbc-bcrypt" element2="/jackson-databinding-json-demo" element3="/mycoolapp" element4="/mycoolapp-springboot" element5="/mycoolwebapp" element6="/spring-boot-websocket" element7="/spring-crm-rest-demo" element8="/spring-rest-demo" element9="/spring-security-demo-02-basic-security" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="16" stamp="1667127246099"/>
-</session>

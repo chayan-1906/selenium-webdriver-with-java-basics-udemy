@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;spring-boot-websocket/src/main/resources/static/18.jpg&apos; to &apos;background.jpg&apos;" description="Rename resource &apos;18.jpg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/static/18.jpg" name="background.jpg" stamp="1666634981476" updateReferences="true"/>
-</session>

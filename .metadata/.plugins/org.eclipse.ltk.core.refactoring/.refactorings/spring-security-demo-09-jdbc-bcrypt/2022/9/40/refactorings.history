@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete 3 elements from project &apos;spring-security-demo-09-jdbc-bcrypt&apos;&#x0A;- Original project: &apos;spring-security-demo-09-jdbc-bcrypt&apos;&#x0A;- Original elements:&#x0A;     setup-spring-security-demo-database-plaintext.sql&#x0A;     spring_security_demo_plaintext.mwb&#x0A;     spring_security_demo_plaintext.pdf" description="Delete elements" element1="sql-scripts/spring_security_demo_plaintext.mwb" element2="sql-scripts/spring_security_demo_plaintext.pdf" element3="sql-scripts/setup-spring-security-demo-database-plaintext.sql" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1664127690763" subPackages="false" version="1.0"/>
-</session>

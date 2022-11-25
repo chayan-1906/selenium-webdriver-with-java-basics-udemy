@@ -1,1 +1,0 @@
-INDEX VERSION 1.4+/Users/padmanabhadas/Chayan_Personal/Spring/workspace-spring-websocket/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
