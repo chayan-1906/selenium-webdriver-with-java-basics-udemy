@@ -1,0 +1,29 @@
+import java.time.Duration;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class SpicejetAutomation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		WebDriverManager.chromedriver().setup();
+		WebDriver webDriver = new ChromeDriver();
+		webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+		
+		webDriver.get("https://www.spicejet.com");
+		webDriver.manage().window().maximize();
+		webDriver.findElement(By.xpath("//div[@data-testid='home-page-travellers']")).click();
+		for (int i = 0; i < 3; i++) {
+			webDriver.findElement(By.xpath("//div[@data-testid='Adult-testID-plus-one-cta']")).click();
+		}
+		webDriver.findElement(By.xpath("//div[@data-testid='home-page-travellers-done-cta']")).click();
+		System.out.println(webDriver.findElement(By.xpath("//div[@data-testid='home-page-travellers']")).getText());
+		webDriver.findElement(By.xpath("//div[text()='USD']")).click();
+		webDriver.findElement(By.xpath("//div[text()='Students']")).click();
+	}
+
+}
